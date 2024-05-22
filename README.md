@@ -1,6 +1,6 @@
 # AutomatedCodingChallengesAssembly
 
-This repository contains the dataset for automated coding challenge assembly. The dataset is derived from the Pintia programming practice platform (https://pintia.cn/) and includes various programming problems and their corresponding student submissions.
+This repository contains the dataset for automated coding challenge assembly. The dataset is derived from the Pintia programming practice platform (https://pintia.cn/) and includes 207 programming problems along with the corresponding student submission codes from the 2023 Spring term.
 
 ## File Description
 
